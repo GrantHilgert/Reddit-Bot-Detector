@@ -1,0 +1,4 @@
+#Hi, Thanks for your work on this reddit bot detector. I tried to impliment it in one of my scripts but it seems to be missing "RF_model_for_bot.pkl".
+#Can you upload this file or include instructions on how to generate it? 
+#Thanks in advanced,
+#Grant
